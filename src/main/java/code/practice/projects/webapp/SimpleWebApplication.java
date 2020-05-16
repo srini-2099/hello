@@ -1,4 +1,4 @@
-package code.practice.projects.SpringBootApp;
+package code.practice.projects.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
