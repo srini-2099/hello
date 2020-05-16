@@ -9,9 +9,7 @@ public class SimpleWebApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleWebApplication.class, args);
 
-		System.out.pr
-	failing the build
-	intln("Application started successfully");
+		System.out.println("Application started successfully");
 	}
 
 }
