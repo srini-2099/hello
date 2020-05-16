@@ -1,13 +1,13 @@
-package code.practice.projects.webapp;
+package webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SimpleWebApplication {
+public class SimpleWebApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleWebApplication.class, args);
+		SpringApplication.run(SimpleWebApp.class, args);
 
 		System.out.println("Application started successfully");
 	}
