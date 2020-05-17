@@ -12,7 +12,7 @@
 	<artifactId>SpringBootApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>SimpleWebApplication</name>
+	<name>SpringWebApp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

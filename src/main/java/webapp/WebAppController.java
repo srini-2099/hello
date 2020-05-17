@@ -12,4 +12,5 @@ public class WebAppController {
     public String getEcho(@PathVariable("input") String echo) {
         return "echo : " + echo;
     }
+
 }
